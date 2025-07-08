@@ -1,5 +1,5 @@
 # 🌾 FarmTech: Agricultural Equipment Rental and Resale Platform
-Check out the website here: 
+**Check out the website here:** 
 https://farmtech-05mx.onrender.com/
 
 A full-stack MERN (MongoDB, Express, React, Node.js) web application designed to bridge the gap between equipment owners (farmers) and customers by enabling seamless rental and resale of agricultural machinery.
