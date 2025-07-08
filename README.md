@@ -1,44 +1,38 @@
-# FarmTech Gear Rental Platform
-A MERN stack-based web application that enables farmers to rent and lease agricultural equipment during non-season days. The platform also features an integrated chatbot for user assistance and enhanced interaction.
+# 🌾 FarmTech: Agricultural Equipment Rental and Resale Platform
+Check out the website here: 
+https://farmtech-05mx.onrender.com/
 
-🌾 Features
-Farmer and renter user registration and authentication
+A full-stack MERN (MongoDB, Express, React, Node.js) web application designed to bridge the gap between equipment owners (farmers) and customers by enabling seamless rental and resale of agricultural machinery.
 
-Post, view, and manage farm equipment listings
+## 🚀 Features
 
-Equipment search and rental booking
+- 🔐 **User Authentication** (Sign Up, Log In, Google OAuth)
+- 🧾 **Product Listings**: Owners can add, update, or delete listings
+- 🔎 **Advanced Search**: Filter by location, category, type (rent/sale), condition, and more
+- 🛒 **Booking System**: Customers can book equipment with calendar-based rental dates
+- 🧠 **Integrated Chatbot**: Offers real-time support using predefined NLP-based responses
+- 📦 **Profile Dashboard**: View, manage bookings and listed equipment
+- 💬 **Customer Support**: In-app assistance for renting, listing, and account issues
 
-Chatbot support for query handling and navigation
+## 🛠️ Tech Stack
 
-Real-time notifications and booking confirmations
+**Frontend:**
+- React.js
+- Tailwind CSS
+- React Router
+- Lucide-react icons
 
-Secure and scalable backend with MongoDB
+**Backend:**
+- Node.js
+- Express.js
+- MongoDB (Mongoose)
+- Firebase Authentication
 
-Responsive and user-friendly frontend with React.js
+**Additional Tools:**
+- Vercel / Netlify for frontend deployment
+- Render / Railway for backend deployment
+- JWT for secure sessions
 
-🚀 Tech Stack
-Frontend: React.js, HTML5, CSS3, JavaScript
+## 💡 Use Case
 
-Backend: Node.js, Express.js
-
-Database: MongoDB (Mongoose)
-
-Authentication: JWT (JSON Web Tokens)
-
-Chatbot: Custom-built using JavaScript libraries and APIs
-
-⚙️ Usage
-Farmers can list their farming equipment for rent with prices and availability.
-
-Other farmers can search and book available equipment for temporary use.
-
-Chatbot helps guide users through the platform features and FAQs.
-
-📈 Future Enhancements
-Add payment gateway integration
-
-Real-time chat between owners and renters
-
-Mobile app version (React Native)
-
-Equipment condition verification system
+Farmers and equipment owners can generate income by renting out their idle machinery. Customers get affordable, temporary access to expensive farming tools without purchasing them outright.
